@@ -14,3 +14,9 @@
 [0115/110317.118:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [0117/135312.329:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [0117/150443.309:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0123/095937.975:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0123/095939.088:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Perman\AppData\Local\Temp\scoped_dir13328_1381077999\Crashpad\attachments\eb7e2483-8407-4256-9ed0-ca54ad7dbb91: The system cannot find the path specified. (0x3)
+[0123/114552.895:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0123/114552.905:ERROR:exception_snapshot_win.cc(99)] thread ID 19976 not found in process
+[0123/114552.982:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0123/114552.983:ERROR:exception_snapshot_win.cc(99)] thread ID 8296 not found in process
