@@ -1,0 +1,451 @@
+1614927347909	geckodriver	INFO	Listening on 127.0.0.1:52247
+1614927348572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei3SMeP"
+
+(firefox-esr:16610): Gtk-WARNING **: 12:25:51.780: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:16610): Gtk-WARNING **: 12:25:51.780: Theme file for Nordic-darker-standard-buttons has no directories
+1614927354144	Marionette	INFO	Listening on port 37555
+1614927354193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614930855937	geckodriver	INFO	Listening on 127.0.0.1:41899
+1614930856718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejGefSm"
+
+(firefox-esr:21947): Gtk-WARNING **: 13:24:19.572: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:21947): Gtk-WARNING **: 13:24:19.572: Theme file for Nordic-darker-standard-buttons has no directories
+1614930862903	Marionette	INFO	Listening on port 40833
+1614930862985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614930870563	Marionette	INFO	Stopped listening on port 37555
+1614932457277	Marionette	INFO	Stopped listening on port 40833
+1614932463136	geckodriver	INFO	Listening on 127.0.0.1:43663
+1614932464255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Hjioo"
+
+(firefox-esr:24278): Gtk-WARNING **: 13:51:09.055: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:24278): Gtk-WARNING **: 13:51:09.055: Theme file for Nordic-darker-standard-buttons has no directories
+1614932471569	Marionette	INFO	Listening on port 40329
+1614932471582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614933032563	Marionette	INFO	Stopped listening on port 40329
+1614936932519	geckodriver	INFO	Listening on 127.0.0.1:35871
+1614936933369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile01Yjoc"
+
+(firefox-esr:27758): Gtk-WARNING **: 15:05:40.017: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:27758): Gtk-WARNING **: 15:05:40.017: Theme file for Nordic-darker-standard-buttons has no directories
+1614936944365	Marionette	INFO	Listening on port 37683
+1614936944428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614936985457	Marionette	INFO	Stopped listening on port 37683
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614937236456	geckodriver	INFO	Listening on 127.0.0.1:38633
+1614937237433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3TVV8Q"
+
+(firefox-esr:28314): Gtk-WARNING **: 15:10:39.430: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:28314): Gtk-WARNING **: 15:10:39.430: Theme file for Nordic-darker-standard-buttons has no directories
+1614937242863	Marionette	INFO	Listening on port 43093
+1614937242963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614937288011	Marionette	INFO	Stopped listening on port 43093
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614938072452	geckodriver	INFO	Listening on 127.0.0.1:59223
+1614938073342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOkzxF6"
+
+(firefox-esr:29521): Gtk-WARNING **: 15:24:36.958: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:29521): Gtk-WARNING **: 15:24:36.958: Theme file for Nordic-darker-standard-buttons has no directories
+1614938080843	Marionette	INFO	Listening on port 34415
+1614938080915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614938120213	Marionette	INFO	Stopped listening on port 34415
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614938185057	geckodriver	INFO	Listening on 127.0.0.1:48581
+1614938185063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaVAAET"
+
+(firefox-esr:29895): Gtk-WARNING **: 15:26:26.188: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:29895): Gtk-WARNING **: 15:26:26.188: Theme file for Nordic-darker-standard-buttons has no directories
+1614938189242	Marionette	INFO	Listening on port 44159
+1614938189280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614938230803	Marionette	INFO	Stopped listening on port 44159
+1614938287452	geckodriver	INFO	Listening on 127.0.0.1:43323
+1614938287461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunhwRc"
+
+(firefox-esr:30293): Gtk-WARNING **: 15:28:08.553: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:30293): Gtk-WARNING **: 15:28:08.553: Theme file for Nordic-darker-standard-buttons has no directories
+1614938291801	Marionette	INFO	Listening on port 34237
+1614938291878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614938340969	Marionette	INFO	Stopped listening on port 34237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614938453195	geckodriver	INFO	Listening on 127.0.0.1:56817
+1614938453202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUHkBSo"
+
+(firefox-esr:30872): Gtk-WARNING **: 15:30:55.631: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:30872): Gtk-WARNING **: 15:30:55.631: Theme file for Nordic-darker-standard-buttons has no directories
+1614938459012	Marionette	INFO	Listening on port 38553
+1614938459074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614938487103	Marionette	INFO	Stopped listening on port 38553
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+1614938598635	geckodriver	INFO	Listening on 127.0.0.1:51607
+1614938598642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2UNEqp"
+
+(firefox-esr:31424): Gtk-WARNING **: 15:33:19.488: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:31424): Gtk-WARNING **: 15:33:19.488: Theme file for Nordic-darker-standard-buttons has no directories
+1614938602565	Marionette	INFO	Listening on port 34413
+1614938602658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614938632259	Marionette	INFO	Stopped listening on port 34413
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ieeexplore.ieee.org/assets/dist/ng-new/polyfills.js?cv=20210126_000001, line 2: NS_ERROR_NOT_INITIALIZED: 
+1614938660674	geckodriver	INFO	Listening on 127.0.0.1:57391
+1614938660682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQpI1rx"
+
+(firefox-esr:31811): Gtk-WARNING **: 15:34:21.484: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:31811): Gtk-WARNING **: 15:34:21.484: Theme file for Nordic-darker-standard-buttons has no directories
+1614938664388	Marionette	INFO	Listening on port 43245
+1614938664402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w.usabilla.com/e9930a118e08.js?lv=1, line 1: TypeError: h is undefined
+1614938831942	Marionette	INFO	Stopped listening on port 43245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614939046931	geckodriver	INFO	Listening on 127.0.0.1:41373
+1614939047895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEfAxHG"
+
+(firefox-esr:32471): Gtk-WARNING **: 15:40:50.555: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:32471): Gtk-WARNING **: 15:40:50.555: Theme file for Nordic-darker-standard-buttons has no directories
+1614939054157	Marionette	INFO	Listening on port 36873
+1614939054184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614939340593	Marionette	INFO	Stopped listening on port 36873
+1614939362007	geckodriver	INFO	Listening on 127.0.0.1:45439
+1614939362014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez1FKlY"
+
+(firefox-esr:33030): Gtk-WARNING **: 15:46:03.320: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:33030): Gtk-WARNING **: 15:46:03.320: Theme file for Nordic-darker-standard-buttons has no directories
+1614939364857	Marionette	INFO	Listening on port 42647
+1614939364923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614939493509	Marionette	INFO	Stopped listening on port 42647
+1614939545101	geckodriver	INFO	Listening on 127.0.0.1:57559
+1614939545277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJpfwMd"
+
+(firefox-esr:33439): Gtk-WARNING **: 15:49:05.871: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:33439): Gtk-WARNING **: 15:49:05.872: Theme file for Nordic-darker-standard-buttons has no directories
+1614939547539	Marionette	INFO	Listening on port 43361
+1614939547583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614939594473	Marionette	INFO	Stopped listening on port 43361
+1614939662860	geckodriver	INFO	Listening on 127.0.0.1:60017
+1614939662867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQYgd2s"
+
+(firefox-esr:33821): Gtk-WARNING **: 15:51:03.357: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:33821): Gtk-WARNING **: 15:51:03.357: Theme file for Nordic-darker-standard-buttons has no directories
+1614939664918	Marionette	INFO	Listening on port 42293
+1614939664973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614939703437	Marionette	INFO	Stopped listening on port 42293
+1614940274016	geckodriver	INFO	Listening on 127.0.0.1:60643
+1614940274882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4hfavo"
+
+(firefox-esr:36189): Gtk-WARNING **: 16:01:19.773: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:36189): Gtk-WARNING **: 16:01:19.773: Theme file for Nordic-darker-standard-buttons has no directories
+1614940284949	Marionette	INFO	Listening on port 34249
+1614940285004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614940363160	Marionette	INFO	Stopped listening on port 34249
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1614940608360	geckodriver	INFO	Listening on 127.0.0.1:42159
+1614940608366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6mb2O"
+
+(firefox-esr:37192): Gtk-WARNING **: 16:06:50.278: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:37192): Gtk-WARNING **: 16:06:50.278: Theme file for Nordic-darker-standard-buttons has no directories
+1614940611944	Marionette	INFO	Listening on port 33159
+1614940611998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614940648512	Marionette	INFO	Stopped listening on port 33159
+1614940982236	geckodriver	INFO	Listening on 127.0.0.1:57607
+1614940982819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewpcqBi"
+
+(firefox-esr:38428): Gtk-WARNING **: 16:13:17.492: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:38428): Gtk-WARNING **: 16:13:17.492: Theme file for Nordic-darker-standard-buttons has no directories
+1614941001215	Marionette	INFO	Listening on port 38199
+1614941001283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614941042321	Marionette	INFO	Stopped listening on port 38199
+1614941173063	geckodriver	INFO	Listening on 127.0.0.1:41867
+1614941173069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMl4qCI"
+
+(firefox-esr:38983): Gtk-WARNING **: 16:16:14.242: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:38983): Gtk-WARNING **: 16:16:14.242: Theme file for Nordic-darker-standard-buttons has no directories
+1614941176028	Marionette	INFO	Listening on port 42403
+1614941176168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614941274786	Marionette	INFO	Stopped listening on port 42403
+1614956575112	geckodriver	INFO	Listening on 127.0.0.1:57555
+1614956576012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6sRS1Z"
+
+(firefox-esr:42465): Gtk-WARNING **: 20:33:00.608: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:42465): Gtk-WARNING **: 20:33:00.609: Theme file for Nordic-darker-standard-buttons has no directories
+1614956584672	Marionette	INFO	Listening on port 42695
+1614956584738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614956650336	Marionette	INFO	Stopped listening on port 42695
+1614956724104	geckodriver	INFO	Listening on 127.0.0.1:35991
+1614956724112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRtfsp5"
+
+(firefox-esr:43035): Gtk-WARNING **: 20:35:26.488: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:43035): Gtk-WARNING **: 20:35:26.488: Theme file for Nordic-darker-standard-buttons has no directories
+1614956729977	Marionette	INFO	Listening on port 46469
+1614956730035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614956793533	Marionette	INFO	Stopped listening on port 46469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614957659875	geckodriver	INFO	Listening on 127.0.0.1:52865
+1614957660695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenJDR3t"
+
+(firefox-esr:44602): Gtk-WARNING **: 20:51:03.680: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:44602): Gtk-WARNING **: 20:51:03.680: Theme file for Nordic-darker-standard-buttons has no directories
+1614957667220	Marionette	INFO	Listening on port 36315
+1614957667282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614957718925	geckodriver	INFO	Listening on 127.0.0.1:48471
+1614957718932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepFQg9g"
+
+(firefox-esr:44959): Gtk-WARNING **: 20:51:59.852: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:44959): Gtk-WARNING **: 20:51:59.852: Theme file for Nordic-darker-standard-buttons has no directories
+1614957722880	Marionette	INFO	Listening on port 42383
+1614957722948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614957725573	Marionette	INFO	Stopped listening on port 36315
+1614957736147	geckodriver	INFO	Listening on 127.0.0.1:56891
+1614957736155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezMFHiH"
+
+(firefox-esr:45247): Gtk-WARNING **: 20:52:17.006: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:45247): Gtk-WARNING **: 20:52:17.006: Theme file for Nordic-darker-standard-buttons has no directories
+1614957739900	Marionette	INFO	Listening on port 46507
+1614957739995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614957743280	Marionette	INFO	Stopped listening on port 42383
+1614957783046	Marionette	INFO	Stopped listening on port 46507
+1614957977021	geckodriver	INFO	Listening on 127.0.0.1:43545
+1614957977031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekFw5WR"
+
+(firefox-esr:45874): Gtk-WARNING **: 20:56:19.444: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:45874): Gtk-WARNING **: 20:56:19.444: Theme file for Nordic-darker-standard-buttons has no directories
+1614957982758	Marionette	INFO	Listening on port 44173
+1614957982852	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614957989029	Marionette	INFO	Stopped listening on port 44173
+1614958004831	geckodriver	INFO	Listening on 127.0.0.1:58881
+1614958004839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefS6QYJ"
+
+(firefox-esr:46239): Gtk-WARNING **: 20:56:46.345: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:46239): Gtk-WARNING **: 20:56:46.345: Theme file for Nordic-darker-standard-buttons has no directories
+1614958009081	Marionette	INFO	Listening on port 35149
+1614958009198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 124: NS_ERROR_NOT_INITIALIZED: 
+1614958079468	Marionette	INFO	Stopped listening on port 35149
+1614958115962	geckodriver	INFO	Listening on 127.0.0.1:47351
+1614958115971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBnLIu"
+
+(firefox-esr:46717): Gtk-WARNING **: 20:58:36.939: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:46717): Gtk-WARNING **: 20:58:36.939: Theme file for Nordic-darker-standard-buttons has no directories
+1614958119720	Marionette	INFO	Listening on port 33545
+1614958119792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958131291	Marionette	INFO	Stopped listening on port 33545
+1614958148756	geckodriver	INFO	Listening on 127.0.0.1:53225
+1614958148765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCrNRPJ"
+
+(firefox-esr:47112): Gtk-WARNING **: 20:59:09.651: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:47112): Gtk-WARNING **: 20:59:09.651: Theme file for Nordic-darker-standard-buttons has no directories
+1614958152715	Marionette	INFO	Listening on port 36883
+1614958152780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958174691	Marionette	INFO	Stopped listening on port 36883
+1614958276934	geckodriver	INFO	Listening on 127.0.0.1:60931
+1614958277702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD8TkvD"
+
+(firefox-esr:47622): Gtk-WARNING **: 21:01:19.414: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:47622): Gtk-WARNING **: 21:01:19.414: Theme file for Nordic-darker-standard-buttons has no directories
+1614958283147	Marionette	INFO	Listening on port 37591
+1614958283222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958289879	Marionette	INFO	Stopped listening on port 37591
+1614958353635	geckodriver	INFO	Listening on 127.0.0.1:50505
+1614958353642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4I4qP"
+
+(firefox-esr:48074): Gtk-WARNING **: 21:02:35.637: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:48074): Gtk-WARNING **: 21:02:35.638: Theme file for Nordic-darker-standard-buttons has no directories
+1614958358270	Marionette	INFO	Listening on port 43123
+1614958358283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958403455	Marionette	INFO	Stopped listening on port 43123
+1614958560580	geckodriver	INFO	Listening on 127.0.0.1:41613
+1614958560587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8tHZW"
+
+(firefox-esr:48628): Gtk-WARNING **: 21:06:02.569: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:48628): Gtk-WARNING **: 21:06:02.569: Theme file for Nordic-darker-standard-buttons has no directories
+1614958565843	Marionette	INFO	Listening on port 37969
+1614958565906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958639171	Marionette	INFO	Stopped listening on port 37969
+1614958799209	geckodriver	INFO	Listening on 127.0.0.1:40469
+1614958799217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuKxBCe"
+
+(firefox-esr:49246): Gtk-WARNING **: 21:10:00.306: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:49246): Gtk-WARNING **: 21:10:00.307: Theme file for Nordic-darker-standard-buttons has no directories
+1614958803021	Marionette	INFO	Listening on port 39511
+1614958803053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958870103	Marionette	INFO	Stopped listening on port 39511
+1614958923634	geckodriver	INFO	Listening on 127.0.0.1:43885
+1614958923642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGi7z0l"
+
+(firefox-esr:49714): Gtk-WARNING **: 21:12:05.313: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:49714): Gtk-WARNING **: 21:12:05.314: Theme file for Nordic-darker-standard-buttons has no directories
+1614958928473	Marionette	INFO	Listening on port 43851
+1614958928863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614958968201	Marionette	INFO	Stopped listening on port 43851
+1614959028004	geckodriver	INFO	Listening on 127.0.0.1:42023
+1614959028012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKoEFTn"
+
+(firefox-esr:50195): Gtk-WARNING **: 21:13:49.463: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:50195): Gtk-WARNING **: 21:13:49.463: Theme file for Nordic-darker-standard-buttons has no directories
+1614959032168	Marionette	INFO	Listening on port 42933
+1614959032240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959066331	Marionette	INFO	Stopped listening on port 42933
+1614959229070	geckodriver	INFO	Listening on 127.0.0.1:35385
+1614959229078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIgxPEg"
+
+(firefox-esr:50812): Gtk-WARNING **: 21:17:09.863: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:50812): Gtk-WARNING **: 21:17:09.863: Theme file for Nordic-darker-standard-buttons has no directories
+1614959232705	Marionette	INFO	Listening on port 41621
+1614959232808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959351126	Marionette	INFO	Stopped listening on port 41621
+1614959412590	geckodriver	INFO	Listening on 127.0.0.1:39561
+1614959412597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Oll28"
+
+(firefox-esr:51308): Gtk-WARNING **: 21:20:14.638: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:51308): Gtk-WARNING **: 21:20:14.638: Theme file for Nordic-darker-standard-buttons has no directories
+1614959417596	Marionette	INFO	Listening on port 33587
+1614959417621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959478423	Marionette	INFO	Stopped listening on port 33587
+1614959573254	geckodriver	INFO	Listening on 127.0.0.1:46603
+1614959573264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevS4cVb"
+
+(firefox-esr:51894): Gtk-WARNING **: 21:22:54.072: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:51894): Gtk-WARNING **: 21:22:54.072: Theme file for Nordic-darker-standard-buttons has no directories
+1614959576815	Marionette	INFO	Listening on port 42733
+1614959576880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959673373	Marionette	INFO	Stopped listening on port 42733
+1614959706005	geckodriver	INFO	Listening on 127.0.0.1:43727
+1614959706013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSvUV7p"
+
+(firefox-esr:52470): Gtk-WARNING **: 21:25:07.142: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:52470): Gtk-WARNING **: 21:25:07.142: Theme file for Nordic-darker-standard-buttons has no directories
+1614959710074	Marionette	INFO	Listening on port 38031
+1614959710130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959763076	Marionette	INFO	Stopped listening on port 38031
+1614959821318	geckodriver	INFO	Listening on 127.0.0.1:56091
+1614959821326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU4WgXm"
+
+(firefox-esr:52945): Gtk-WARNING **: 21:27:02.342: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:52945): Gtk-WARNING **: 21:27:02.343: Theme file for Nordic-darker-standard-buttons has no directories
+1614959825123	Marionette	INFO	Listening on port 44853
+1614959825145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614959874068	Marionette	INFO	Stopped listening on port 44853
