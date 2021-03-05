@@ -4,6 +4,9 @@ robots.txt
 
 schema changes from web page to web page
 
+>add User-Agent string of Firefox / Chrome (to show bot is a human)
+>>headers = {"User-Agent":"Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"}
+
  #TYPES
 1.  Scraping static pages\
 		requests , BeautifulSoup
