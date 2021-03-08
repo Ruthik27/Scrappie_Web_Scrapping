@@ -449,3 +449,39 @@ JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lid
 1614959825123	Marionette	INFO	Listening on port 44853
 1614959825145	Marionette	WARN	TLS certificate errors will be ignored for this session
 1614959874068	Marionette	INFO	Stopped listening on port 44853
+1615223140970	geckodriver	INFO	Listening on 127.0.0.1:34323
+1615223141843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemQhPF5"
+
+(firefox-esr:19418): Gtk-WARNING **: 22:35:47.163: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:19418): Gtk-WARNING **: 22:35:47.163: Theme file for Nordic-darker-standard-buttons has no directories
+1615223150580	Marionette	INFO	Listening on port 34831
+1615223150684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615223420939	geckodriver	INFO	Listening on 127.0.0.1:51927
+1615223421801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYjIaVA"
+
+(firefox-esr:20176): Gtk-WARNING **: 22:40:23.205: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:20176): Gtk-WARNING **: 22:40:23.205: Theme file for Nordic-darker-standard-buttons has no directories
+1615223425280	Marionette	INFO	Listening on port 42995
+1615223425320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615224078108	geckodriver	INFO	Listening on 127.0.0.1:52421
+1615224078957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRsbEUg"
+
+(firefox-esr:22688): Gtk-WARNING **: 22:51:23.164: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:22688): Gtk-WARNING **: 22:51:23.164: Theme file for Nordic-darker-standard-buttons has no directories
+1615224086374	Marionette	INFO	Listening on port 43323
+1615224086479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615224086822	Marionette	INFO	Stopped listening on port 34831
+1615224089037	Marionette	INFO	Stopped listening on port 42995
+1615224361089	geckodriver	INFO	Listening on 127.0.0.1:37155
+1615224361094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWkZD1"
+
+(firefox-esr:23315): Gtk-WARNING **: 22:56:01.895: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:23315): Gtk-WARNING **: 22:56:01.895: Theme file for Nordic-darker-standard-buttons has no directories
+1615224363954	Marionette	INFO	Listening on port 35659
+1615224364058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615224590019	Marionette	INFO	Stopped listening on port 35659
+1615224595154	Marionette	INFO	Stopped listening on port 43323
