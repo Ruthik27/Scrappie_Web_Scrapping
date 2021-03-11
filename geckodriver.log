@@ -485,3 +485,12 @@ JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lid
 1615224364058	Marionette	WARN	TLS certificate errors will be ignored for this session
 1615224590019	Marionette	INFO	Stopped listening on port 35659
 1615224595154	Marionette	INFO	Stopped listening on port 43323
+1615265546506	geckodriver	INFO	Listening on 127.0.0.1:34777
+1615265547234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVuEwKt"
+
+(firefox-esr:35850): Gtk-WARNING **: 10:22:30.282: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:35850): Gtk-WARNING **: 10:22:30.282: Theme file for Nordic-darker-standard-buttons has no directories
+1615265552751	Marionette	INFO	Listening on port 32987
+1615265552788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615265582851	Marionette	INFO	Stopped listening on port 32987
