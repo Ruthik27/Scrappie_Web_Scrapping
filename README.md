@@ -17,8 +17,13 @@ schema changes from web page to web page
 
 > if you want to scrape from a table:
 >>	use Google sheets (ezy pzy)
+>>	
 >>	just add this in the upper formula(=ImportHtml ("URL", "table" , 2))
+>>	
 >>	where the url means the web address
+>>	
 >>	table mwntions what you want to scrape
+>>	
 >>	and the (int) shows which table you want to scrape
+>>	
 >>	Just hit enter and download or share in any format you want.
