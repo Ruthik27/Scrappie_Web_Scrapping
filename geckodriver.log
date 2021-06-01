@@ -612,3 +612,12 @@ JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lid
 1620681025941	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
 1620681515605	Marionette	INFO	Stopped listening on port 39731
+1622173101655	geckodriver	INFO	Listening on 127.0.0.1:56723
+1622173102380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOIuFo"
+
+(firefox-esr:18055): Gtk-WARNING **: 09:08:23.395: Theme file for Nordic-darker-standard-buttons has no name
+
+(firefox-esr:18055): Gtk-WARNING **: 09:08:23.395: Theme file for Nordic-darker-standard-buttons has no directories
+1622173106050	Marionette	INFO	Listening on port 37145
+1622173106161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622173223699	Marionette	INFO	Stopped listening on port 37145
